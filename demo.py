@@ -18,5 +18,5 @@ def area_rectangle(length,width):
     except:
         return "could not calculate area"
 
-x = area_rectangle(4,"hello")
+x = area_rectangle(4,2.3)
 print(x)

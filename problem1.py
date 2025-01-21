@@ -11,6 +11,8 @@ assert hypotenuse(3,4,True) == 5
 """
 
 def hypotenuse():
+    input("Number:")    
+    input("Number:")
     return
 
 if __name__ == "__main__":
